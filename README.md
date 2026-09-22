@@ -118,11 +118,11 @@ Repository:
 
 ### Spanish
 
-[View Spanish Resume](./ES_CV_Ana%20Karen%20Canales%20Santos.tex)
+[View Spanish Resume](./ES_CV_Ana_Karen_Canales_Santos.tex)
 
 ### English
 
-[View English Resume](./EN_CV_Ana%20Karen%20Canales%20Santos.tex)
+[View English Resume](./EN_CV_Ana_Karen_Canales_Santos.tex)
 
 ## Career Development
 
