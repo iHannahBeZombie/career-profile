@@ -18,8 +18,8 @@ jobs:
         uses: xu-cheng/latex-action@v4
         with:
           root_file: |
-            ES_CV_Ana Karen Canales Santos.tex
-            EN_CV_Ana Karen Canales Santos.tex
+            ES_CV_Ana_Karen_Canales_Santos.tex
+            EN_CV_Ana_Karen_Canales_Santos.tex
           latexmk_use_xelatex: true
 
       - name: Upload CV PDFs
@@ -27,5 +27,5 @@ jobs:
         with:
           name: CV-PDFs
           path: |
-            ES_CV_Ana Karen Canales Santos.pdf
-            EN_CV_Ana Karen Canales Santos.pdf
+            ES_CV_Ana_Karen_Canales_Santos.pdf
+            EN_CV_Ana_Karen_Canales_Santos.pdf
